@@ -1,0 +1,42 @@
+# OS X
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+
+# Node-Cluster
+/pids
+*.sock
+
+# Images
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.ico
+*.eot
+*.svg
+*.ttf
+*.woff
+
+# Misc
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+logs
+results
+test
+.git*

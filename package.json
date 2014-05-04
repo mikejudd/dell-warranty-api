@@ -1,0 +1,16 @@
+{
+  "name": "dell-warranty-api",
+  "description": "Retrieve warranty information from the Dell Support Services API.",
+  "version": "0.1",
+  "author": "Dustin Riley <dustin@dustinriley.net>",
+  "repository": "git://github.com/dustinriley/dell-warranty-api",
+  "keywords": [
+    "dell",
+    "warranty",
+    "api"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT"
+}
